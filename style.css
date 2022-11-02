@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+
+
+.container{
+    height: 95vh;
+    width: 27%;
+    background-color: white;
+    margin: 0 auto;
+}
+pre{
+    margin-left: 70px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mi{
+    height: 22vh;
+background-image: url(fbpage.png);
+background-position: center;
+background-size: cover;
+
+}
+.mii{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.phonenmbr{
+  height: 40px;
+  width: 87%;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid gray;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.pasword{
+    height: 40px;
+    width: 87%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+}
+.lgb{
+    height: 40px;
+    width: 90%;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    border: none;
+    color:white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.lgb:hover{
+    background-color:  rgba(30, 94, 255, 0.924);
+}
+.forgt{
+font-size: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-left: 65px;
+color: dodgerblue;
+
+}
+p{
+    font-size: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-left: 130px;
+}
+.creatbtn{
+    height: 40px;
+    width: 75%;
+    margin-left: 30px;
+    background-color: green;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+}
+.creatbtn:hover{
+    background-color: rgb(13, 173, 13);
+
+}
